@@ -15,7 +15,7 @@ I am Masood, a Chip Design Enthusiast.
   . Git
   . Linux/ Shell scripting
   . Digital logic and system design
-  . Different tools to use in chip design process including Venus browser, GDB, xilinx design suite, draw.io, Spike etc
+  . Different tools to use in chip design process including Venus browser, GDB, simulation and schematic tools, draw.io, Spike etc
   . Soft skills like how to give and receive feedback, how to have a devil's advocate talk, how to write a linked in post/article, team work,resourcefullness, delegation of tasks in team 
     etc
 - 📫 How to reach me:
