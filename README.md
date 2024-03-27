@@ -6,8 +6,8 @@ I am Masood, a Chip Design Enthusiast.
   Assignments and basic level projects of
   . Digital Logic and Digital System Design
   . RISC-V
-  . Computer Architecture
-- 🌱 I’m currently learning
+  . Computer Architecture 
+- 🌱 I’m currently learning 
   . Chip Design Basics
   . RISC-V Basics
   . Computer Architecture
