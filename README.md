@@ -3,7 +3,7 @@ I am Masood, a Chip Design & Machine Learning Enthusiast.
 
 
 Contact:
-mailto:mmasudaiou@gmail.com
+GMail:mmasudaiou@gmail.com
 LinkedIn:https://www.linkedin.com/in/masoodsaeed/
 
 Highly motivated and adaptable graduate with a strong foundation in physics and a growing skillset in programming languages, computer architecture, and data science. Eager to leverage acquired knowledge and hands-on experience to contribute to innovative projects in a collaborative environment.
